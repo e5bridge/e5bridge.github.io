@@ -24,9 +24,7 @@ Life was great. Until today, when my pebble buzzed again.
 
 I opened the email. They rejected me. WHAT. Did they even send it to the right person? Foul play was involved, clearly.
 
-<blockquote>
-  After all, I work at a fucking big 4 company, have had offers from pretty much all of the big 4, and I can’t get into a shitty fucking hackathon located on campus at my own school. What a load of shit.
-</blockquote>
+After all, I work at a fucking Big 4 company, have had offers from pretty much all of the Big 4, and I can’t get into a shitty fucking hackathon located on campus at my own school. What a load of shit.
 
 Turns out everyone else in my team got in. How was that possible? I was, literally, "the" guy who was going to carry them. None of the other three had close to as much experience as I did. Two of them were incoming first-year Laurier BBA students, who only wanted to stuff their resume. The other team member was my girlfriend who was in Applied Health Sciences with no prior programming experience. It didn't make sense to me how the three other girls made it and I didn't. I clearly had superior technical skills and I actually had a passion for technology. Only one explanation made sense - Hack the North must have been biased against males.
 
