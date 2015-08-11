@@ -1,0 +1,17 @@
+url: https://e5bridge.com  # with the https protocol
+enforce_ssl: e5bridge.com
+
+# Site settings
+title: E5 Bridge
+header-img: assets/e5.png
+email: hello@e5bridge.com
+description: "Where legends are born and memories are captured."
+baseurl: ""
+url: "e5bridge.com"
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
