@@ -31,3 +31,5 @@ Turns out everyone else in my team got in. How was that possible? I was, literal
 I was furious. And I was not the only one. A reddit post on /r/uwaterloo with the same question quickly got 100+ comments and gained tons of traction. Lots of super-smart developers, "mostly" male, had been rejected. I asked around how I could improve my chances of getting in and one person replied, "Have you tried changing genders?" So much for competence over diversity.
 
 After I came to terms with my rejection, I realized that HTN wasn’t the right place for me anyway. By turning away this many smart people, they’ve proven that they don’t represent UW’s values of "Ideas Start Here." More like "Ideas End Here." To any Hack the North organizers reading this: I hear there’s a high school down University Ave that would make a great venue for Hack the North 2016.
+
+/s
